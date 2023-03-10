@@ -50,5 +50,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 🎶 Listening To
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317pddaqhpum2aw4yikfzd5i4haa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=317pddaqhpum2aw4yikfzd5i4haa&redirect=true)
+
 
 
