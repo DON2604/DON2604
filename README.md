@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mrinmay Das</h1>
+![Mokoto Glitch 1](https://user-images.githubusercontent.com/89240074/224786201-f641797d-0f78-4476-9b9b-e3e17b419135.gif)
+
+<h1 align="center">Welcome! 👋</h1>
 <h3 align="center">A coder with a lot of dreams. I have ample knowledge of MySql, Java, python,C and Web Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=don2604&label=Profile%20views&color=0e75b6&style=flat" alt="don2604" /> </p>
