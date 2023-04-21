@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Tkinter,NODE JS**
 
-- 📫 How to reach me **mrinmaydas2604gmail.com**
+- 📫 How to reach me **mrinmaydas2604@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mrinmay-das-a88a3824b/](https://www.linkedin.com/in/mrinmay-das-a88a3824b/)
 
