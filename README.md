@@ -1,7 +1,7 @@
 ![Mokoto Glitch 1](https://user-images.githubusercontent.com/89240074/224786201-f641797d-0f78-4476-9b9b-e3e17b419135.gif)
 
 <h1 align="center">Welcome! 👋</h1>
-<h3 align="center">A coder with a lot of dreams. I have ample knowledge of MySql, Java, python,C and Web Dev.</h3>
+<h3 align="center">I've always been fascinated by the intersection of technology and creativity, and coding is the perfect outlet for my passions.<br>Let's push the limits of what's possible and make magic happen with code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=don2604&label=Profile%20views&color=0e75b6&style=flat" alt="don2604" /> </p>
 
