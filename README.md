@@ -20,7 +20,7 @@
 
 - 📝 I regularly write articles on [Nah Not Yet.......](Nah Not Yet.......)
 
-- 💬 Ask me about **Tkinter,NODE JS**
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **mrinmaydas2604@gmail.com**
 
