@@ -7,7 +7,7 @@
 
 <img src="https://camo.githubusercontent.com/ca22cb2d5620adc60626e3dc9ff888651368971a6544dd6bf46756af110d6ed3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d41726b61707261766f2d47686f7368267468656d653d6461726b5f6c6f766572266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d3426636f6c756d6e3d35" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=DON2604&amp;theme=dark_lover&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=5" style="max-width: 100%;">
 
-<p align="left"> <a href="https://twitter.com/dasgenz" target="blank"><img src="https://img.shields.io/twitter/follow/dasgenz?logo=twitter&style=for-the-badge" alt="dasgenz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mrinmay32823501" target="blank"><img src="https://img.shields.io/twitter/follow/Mrinmay?logo=twitter&style=for-the-badge" alt="dasgenz" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif">
   
 - 🔭 I’m currently working on [TechSpectraDWN](https://github.com/TechSpectraDWN)
