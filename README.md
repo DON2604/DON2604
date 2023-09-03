@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/dasgenz" target="blank"><img src="https://img.shields.io/twitter/follow/dasgenz?logo=twitter&style=for-the-badge" alt="dasgenz" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif">
   
-- 🔭 I’m currently working on [Virtual Learning](https://vlearning32.wixsite.com/virtual-learning)
+- 🔭 I’m currently working on [TechSpectraDWN](https://vlearning32.wixsite.com/virtual-learning)
 
 - 🌱 I’m currently learning **Arduino, IOT based applications**
 
