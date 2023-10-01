@@ -49,11 +49,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="don2604" /></p>
 
+### 🏆Badges
+[![An image of @don2604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/don2604)](https://holopin.io/@don2604)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🎶 Listening To
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317pddaqhpum2aw4yikfzd5i4haa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=317pddaqhpum2aw4yikfzd5i4haa&redirect=true)
 
 
 
