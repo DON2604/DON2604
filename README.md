@@ -43,7 +43,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="don2604" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="don2604" /></p> <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DON2604&theme=onedark&hide_border=true" alt="don2604" /></p>
 
