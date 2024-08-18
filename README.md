@@ -56,14 +56,20 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="don2604" /></p> <br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="don2604" />
+</p>
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DON2604&theme=onedark&hide_border=true" alt="don2604" />
+</p>
+<div style="clear: both; padding-top: 80px"></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="don2604" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DON2604&theme=onedark&hide_border=true" alt="don2604" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="don2604" /></p>
 
 ### 🏆Badges
-[![An image of @don2604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/don2604)](https://holopin.io/@don2604)
+[![](https://holopin.me/don2604)](https://holopin.io/@don2604)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
