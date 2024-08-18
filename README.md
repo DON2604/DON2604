@@ -62,7 +62,6 @@
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DON2604&theme=onedark&hide_border=true" alt="don2604" />
 </p>
-<div padding-top: 80px"></div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DON2604&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="don2604" />
 </p>
