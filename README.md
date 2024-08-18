@@ -6,7 +6,7 @@
 <h3 align="center">I've always been fascinated by the intersection of technology and creativity, and coding is the perfect outlet for my passions.<br>Let's push the limits of what's possible and make magic happen with code!</h3>
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2><br>
 <p align="left">
 <a href="https://twitter.com/dasgenz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dasgenz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrinmay das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinmay das" height="30" width="40" /></a>
@@ -14,8 +14,9 @@
 <a href="https://instagram.com/mrinmay_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrinmay_26" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mrinmaydas2604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrinmaydas2604" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 
 ### **Programming Languages**
@@ -50,9 +51,6 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a>
-
-
-This categorizes the icons into **Programming Languages**, **Frameworks**, and **Machine Learning** for better organization.
 </p><br>
 
 
