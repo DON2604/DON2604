@@ -1,4 +1,6 @@
-![Mokoto Glitch 1](https://user-images.githubusercontent.com/89240074/224786201-f641797d-0f78-4476-9b9b-e3e17b419135.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/89240074/224786201-f641797d-0f78-4476-9b9b-e3e17b419135.gif" height="330px" width="680px">
+</p>
 
 <h1 align="center">Welcome! 👋</h1>
 <h3 align="center">I've always been fascinated by the intersection of technology and creativity, and coding is the perfect outlet for my passions.<br>Let's push the limits of what's possible and make magic happen with code!</h3>
