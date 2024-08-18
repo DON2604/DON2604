@@ -68,12 +68,11 @@
 </p>
 <br>
 
-<div>
-### 🏆Badges
+
+<h1> 🏆Badges </h1>
   
 [![](https://holopin.me/don2604)](https://holopin.io/@don2604)
   
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
