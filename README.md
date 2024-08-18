@@ -3,17 +3,7 @@
 <h1 align="center">Welcome! 👋</h1>
 <h3 align="center">I've always been fascinated by the intersection of technology and creativity, and coding is the perfect outlet for my passions.<br>Let's push the limits of what's possible and make magic happen with code!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=don2604&label=Profile%20views&color=0e75b6&style=flat" alt="don2604" /> </p>
 
-<img src="https://camo.githubusercontent.com/ca22cb2d5620adc60626e3dc9ff888651368971a6544dd6bf46756af110d6ed3/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d41726b61707261766f2d47686f7368267468656d653d6461726b5f6c6f766572266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d3426636f6c756d6e3d35" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=DON2604&amp;theme=dark_lover&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=5" style="max-width: 100%;">
-
-<p align="left"> <a href="https://twitter.com/Mrinmay32823501" target="blank"><img src="https://img.shields.io/twitter/follow/Mrinmay?logo=twitter&style=for-the-badge" alt="dasgenz" /></a> </p>
-
-<h2 align="center">Streetcred:</h2> <br>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<a href="https://www.tublian.com/profile/DON2604?ss=true"><img align="center" src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/DON2604?type=with_score"></a>
 
 <br>
 
